@@ -21,7 +21,7 @@ game_is_on = True
 counter = 0
 while game_is_on:
     screen.update()
-    time.sleep(0.2)
+    time.sleep(0.12)
     snake.move()
 
     # Detect Collision with food
