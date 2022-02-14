@@ -39,4 +39,4 @@ This repository is licensed under the MIT license. See LICENSE for details.
 
 # Note:
 1. If you liked it, see if you can give STAR.
-2. Feel free to reach <srivastava.ritik998@gmail.com> to connect, contribute and sugggestions.
+2. Feel free to reach <srivastava.ritik998@gmail.com> to connect, contribute and suggestions.
