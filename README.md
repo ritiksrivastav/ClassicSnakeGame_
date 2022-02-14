@@ -29,7 +29,7 @@ Your high score is calculated based on the number of squares you added to the sn
       
       #### OR
       
-3. Run the __main__.py in python IDLE or any other IDE.
+3. Run the *__main__.py* in python IDLE or any other IDE.
 
 ## License
 
